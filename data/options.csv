@@ -1,0 +1,280 @@
+1,Prohibited.
+1,Allowed if visibility in the driving direction is greater than 100m.
+2,Allowed.
+2,Prohibited.
+3,An intersection.
+3,A turning place.
+3,An overpass.
+4,"Yes, it would be polite and promote mutual respect."
+4,"No, it would endanger traffic safety."
+5,Turning around to drive in the opposite direction.
+5,Driving at a speed suitable for road and weather conditions.
+5,Driving at a speed exceeding the one indicated on the sign.
+6,At any time except on working days from 7:30 till 18:00.
+6,On working days from 18:00 till 7:30.
+6,On working days from 7:30 till 18:00.
+7,You will cross the intersection first.
+7,You will give way to the cyclist.
+8,Allowed.
+8,Prohibited.
+9,You will give way only to the driver of the green car.
+9,You will cross the intersection first.
+9,You will give way to both vehicles.
+9,You will give way only to the driver of the yellow car.
+10,In all directions.
+10,Only to the left.
+10,Only straight and to the left.
+11,Only to the right.
+11,"Straight, right, and left."
+11,Straight and right.
+12,You will give way to the driver of the green car.
+12,You will cross the intersection first.
+13,"Yes, if it does not obstruct public passenger transport."
+13,"Yes, to let passengers get in or out."
+13,Prohibited in all cases.
+14,You will drive first because drivers have priority on the roadway.
+14,You will give way to the pedestrian.
+15,Allowed if the total weight of the vehicles does not exceed 3500 kg.
+15,Allowed not exceeding 50 km/h.
+15,Prohibited.
+16,"Pedestrians are still far, so you will not hinder traffic and will cross the pedestrian crossing."
+16,You will immediately reduce your driving speed.
+17,A B C.
+17,A B.
+17,B D.
+17,B C.
+18,The driver of the green car.
+18,The driver of the yellow car.
+19,B.
+19,A.
+19,A and C.
+19,C.
+20,A parking space for road maintenance vehicles.
+20,A place where parking is prohibited.
+20,A taxi stand.
+21,Both cars are parked correctly.
+21,Only the blue car.
+21,Only the white car.
+22,You will cross the intersection first.
+22,You will give way to both car drivers.
+22,You will give way only to the truck driver.
+23,The passenger car driver.
+23,The bus driver.
+24,"Allowed, if the load is secured."
+24,"Prohibited, the shown load must be transported in an appropriate vehicle."
+24,"Allowed, if the loads weight does not exceed half of the car�s curb weight."
+25,C D E.
+25,C E.
+25,A B C D.
+25,A C D E.
+26,The truck driver.
+26,The passenger car driver.
+27,You will give way to both drivers.
+27,You will give way only to the driver of the green car.
+27,You will cross the intersection first.
+27,You will give way only to the driver of the red car.
+28,Entry for vehicles whose height (with or without load) exceeds 3.5 m.
+28,Entry for vehicles whose mass exceeds 3.5 t.
+28,Entry for vehicles whose length exceeds 3.5 m.
+29,You will give way to the car driver.
+29,You will stop before the Stop sign and wait for the green signal.
+30,"You will turn on the indicator, move into the right lane, and then reduce speed."
+30,"You will move into the right lane, reduce speed, and turn on the indicator."
+30,"You will reduce speed, turn on the indicator, and then move into the right lane."
+31,You will cross the intersection first.
+31,You will give way only to the emergency vehicle driver.
+31,You will give way to both drivers.
+32,You will cross the intersection last.
+32,You will cross the intersection first.
+32,You will give way only to the driver of the red car.
+32,You will give way to the red and blue cars.
+33,A turning place.
+33,An intersection.
+33,An overpass.
+34,Prohibited.
+34,Allowed.
+34,Allowed if driving to residence.
+35,50 km/h.
+35,20 km/h.
+35,30 km/h.
+36,You will give way only to the truck driver.
+36,You will give way only to the driver of the yellow car.
+36,You will give way to all cars.
+37,That road works are being carried out on the road.
+37,That any kind of works are being carried out near the road.
+37,Both of the above answers are correct.
+38,Prohibited near bus stops.
+38,Allowed.
+38,Prohibited where the roadway is crossed by a bicycle path.
+39,The cyclist.
+39,The car driver.
+40,B.
+40,C.
+40,C and B.
+40,A.
+41,A place where you must stop if necessary to give way to vehicles on the intersecting road.
+41,A place where you must stop before entering a main road.
+42,Allowed.
+42,Prohibited only if vehicles are approaching from the right.
+42,Prohibited in all cases.
+43,As soon as the pedestrian steps onto the cars driving path.
+43,As soon as the driver realizes he will not have time to cross before the pedestrian.
+43,As soon as the pedestrian begins crossing the pedestrian crossing.
+44,You will give way only to the oncoming passenger car.
+44,You will cross the intersection first.
+44,You will give way only to the truck driver.
+44,You will give way to both vehicles.
+45,One lane.
+45,Two lanes.
+45,Four lanes.
+45,Three lanes.
+46,From 8.00 to 20.00 it is allowed to load and unload cargo in the area where the traffic sign is valid.
+46,A vehicle parked under the 'No parking' traffic sign on working days from 8.00 to 20.00 may be evacuated.
+47,It is forbidden.
+47,It is allowed.
+48,At a controlled intersection.
+48,At an equal priority intersection.
+48,On a priority road.
+48,On a non-priority road.
+49,I will only give way to the tram.
+49,I will cross last.
+49,I will only give way to the red vehicle.
+49,I will give way to the tram and the red vehicle.
+50,I will give way to the tram
+50,I will cross first.
+51,I will give way to the tram and the automobile.
+51,I will cross first I will only give way to the tram.
+51,I will only give way to the red vehicle.
+52,I will give way to the motorcycle and the tram.
+52,I will only give way to the motorcycle.
+52,I will only give way to the tram.
+52,I will cross first.
+53,It is forbidden.
+53,It is allowed.
+54,"Uneven road ahead (potholes, etc.)."
+54,Road works ahead.
+54,Several speed bumps ahead.
+55,"Yes, only the automobile."
+55,Both vehicles are parked incorrectly.
+55,"Yes, only the motorcycle."
+56,I will cross last.
+56,I will cross first.
+56,I will only give way to the motorcycle rider.
+56,I will only give way to the yellow vehicle driver.
+57,To turn left at the intersection.
+57,To turn left on the first carriageway.
+57,To turn left at the intersection and make a U-turn
+58,Yes.
+58,No.
+59,90 km/h.
+59,70 km/h.
+59,50 km/h.
+60,Red vehicle driver.
+60,Green vehicle driver.
+61,"Forbidden, because the cargo significantly changes the vehicle's centre of gravity"
+61,"Allowed, if the cargo does not interfere with driving and does not disturb other traffic participants"
+62,Only the pedestrian.
+62,To all.
+62,Only to the pedestrian and the pedestrian pushing the bicycle.
+63,That you are on a expressway.
+63,That a solid line is ahead.
+64,I will cross first.
+64,I will only give way to the red vehicle.
+65,They warn about a road narrowing ahead.
+65,They designate a lane where the driving direction will change to the opposite direction.
+65,They designate the overtaking lane.
+66,I will only give way to the car driver.
+66,I will give way to both vehicles.
+66,I will cross first.
+66,I will give way only to the truck driver.
+67,I will cross first.
+67,I will give way to the tram.
+68,I will give way to both vehicles.
+68,None of the vehicles.
+68,I will only give way to the motorcycle rider.
+68,I will only give way to the red vehicle.
+69,Automobile driver.
+69,Bus driver.
+70,Only to the left.
+70,Only straight.
+70,Straight and to the left.
+71,Vehicle driver.
+71,Pedestrian.
+72,Immediately stop on the right side of the road.
+72,Continue driving along the route intended.
+72,Immediately stop.
+73,Yes.
+73,No.
+74,I will cross first.
+74,I will cross last.
+74,I will only give way to the red vehicle.
+74,I will only give way to the motorcycle.
+75,30 km/h.
+75,20 km/h.
+75,50 km/h.
+76,I will only give way to the green vehicle.
+76,I will only give way to the motorcycle.
+76,I will cross first.
+76,I will cross last.
+77,90 km/h.
+77,50 km/h.
+77,70 km/h.
+78,Beginning of a one-way road.
+78,Beginning of a two-way road
+78,Beginning of a road section where the traffic direction may change to the opposite direction.
+79,There is a cycleway on the pavement.
+79,Cyclists can ride on the right-hand side of the carriageway.
+79,Cycleway will cross the carriageway.
+80,It is forbidden.
+80,It is allowed.
+81,The truck and the yellow vehicle.
+81,All vehicles.
+81,Motorcycle and the yellow vehicle.
+82,Yes.
+82,No.
+83,A place where the rules applying to populated areas should be observed.
+83,Beginning of a city border.
+83,Rural municipality border.
+84,It is forbidden.
+84,It is allowed.
+85,None of the places.
+85,Only on the left-hand side.
+85,Only on the right-hand side.
+86,Red vehicle.
+86,Yellow vehicle.
+87,I will cross first.
+87,I will give way to the cyclist.
+88,Red vehicle driver.
+88,You.
+89,It is allowed.
+89,It is forbidden.
+90,I will give way to both vehicles.
+90,I will only give way to the emergency vehicle.
+90,I will cross first.
+90,I will only give way to the emergency vehicle.
+91,To stop.
+91,To work
+91,To park.
+92,No.
+92,Yes.
+93,I will only give way to the red vehicle.
+93,I will cross first.
+93,I will give way to both vehicles.
+93,I will only give way to the yellow truck
+94,I will cross first
+94,I will give way to the oncoming vehicle.
+95,Give way.
+95,Immediately stop.
+96,It is forbidden.
+96,It is allowed.
+97,Both drivers
+97,Only the red vehicle driver.
+98,90 km/h.
+98,50 km/h.
+98,70 km/h.
+99,It is forbidden to pollute the nature.
+99,When driving on this surface it is possible to damage tyres.
+99,Loose chippings (stones) may be thrown out from under tyres.
+100,"Straight, to the right and to the left."
+100,Straight and to the right.
+100,Only to the right
