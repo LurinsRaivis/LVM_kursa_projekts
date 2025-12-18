@@ -6,7 +6,7 @@
   - Questions;
   - Answer options.
 
-Each models' folder ([Google](./Google), [OpenAI](./OpenAI), [xAI](./xAI) includes two scripts - one for image recognizing, other for descriptions.
+Each models' folder ([Google](./Google), [OpenAI](./OpenAI), [xAI](./xAI)) includes two scripts - one for image recognizing, other for descriptions.
 
 [Images](./images) folder was created in order to collect URL for each image (it was easier through GitHub images).
 
