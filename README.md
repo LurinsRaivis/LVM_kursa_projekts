@@ -1,7 +1,7 @@
 # LVM_kursa_projekts
 
 [Data](./data) folder contains all the csv files needed for testing:
-  - Image URLs ([image_URL](./data/image_URL.csv));
+  - Image URLs ([image_URLs](./data/image_URLs.csv));
   - Descriptions ([descriptions](./data/descriptions.csv));
   - Questions ([questions](./data/questions.csv));
   - Answer options ([options](./data/options.csv)).
