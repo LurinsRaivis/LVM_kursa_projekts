@@ -1,10 +1,10 @@
 # LVM_kursa_projekts
 
 [Data](./data) folder contains all the csv files needed for testing:
-  - Image URLs ([image_URLs](./data/image_URLs.csv));
-  - Descriptions ([descriptions](./data/descriptions.csv));
-  - Questions ([questions](./data/questions.csv));
-  - Answer options ([options](./data/options.csv)).
+  - Image URLs;
+  - Descriptions;
+  - Questions;
+  - Answer options.
 
 Each models' folder ([Google](./Google), [OpenAI](./OpenAI), [xAI](./xAI) includes two scripts - one for image recognizing, other for descriptions.
 
